@@ -3,7 +3,7 @@
 
 https://github.com/nerfstudio-project/nerfstudio/
 
-clone该仓库，并按照要求进行环境配置和依赖包下载，同时参考https://github.com/colmap/colmap 和 https://ffmpeg.org/download.html下载COLMAP和FFmpeg。
+clone该仓库，并按照要求进行环境配置和依赖包下载，同时参考https://github.com/colmap/colmap 和 https://ffmpeg.org/download.html 下载COLMAP和FFmpeg。
 
 ## 数据准备
 到Google Drive上下载预先拍摄好的环绕物品视频，或自己拍摄视频，创建data文件夹并放入其中。运行：
